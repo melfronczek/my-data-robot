@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-29T00:12:39.508Z,63.4294,-147.744,0,1.6,ml,,,,0.91,ak,ak0226uf5d87,2022-05-29T00:49:28.402Z,"60 km E of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-29T00:10:42.650Z,39.5475006,-123.3866653,5.8,1.87,md,8,102,0.08717,0.06,nc,nc73739111,2022-05-29T00:44:16.628Z,"12km N of Brooktrails, CA",earthquake,0.39,1.33,0.1,4,automatic,nc,nc
 2022-05-29T00:06:12.732Z,19.5462,-62.162,10,4.6,mb,,89,1.721,0.84,us,us7000hdcn,2022-05-29T00:26:59.040Z,"174 km NNE of The Valley, Anguilla",earthquake,7.5,1.9,0.095,33,reviewed,us,us
-2022-05-29T00:05:08.713Z,19.4815,-62.2176,10,4.4,mb,,188,1.639,0.8,us,us7000hdcm,2022-05-29T00:18:39.040Z,"Leeward Islands",earthquake,7.8,2,0.13,17,reviewed,us,us
+2022-05-29T00:05:08.713Z,19.4815,-62.2176,10,4.4,mb,,188,1.639,0.8,us,us7000hdcm,2022-05-29T00:18:39.040Z,"165 km NNE of The Valley, Anguilla",earthquake,7.8,2,0.13,17,reviewed,us,us
 2022-05-29T00:03:33.394Z,39.2556,-118.1323,12,1.2,ml,8,160.23,0.548,0.0605,nn,nn00839873,2022-05-29T00:07:51.975Z,"46 km NNW of Gabbs, Nevada",earthquake,,4.1,0.17,5,automatic,nn,nn
 2022-05-28T23:53:01.820Z,34.244,-117.4973333,8.97,1.34,ml,37,46,0.06615,0.18,ci,ci40029607,2022-05-28T23:56:49.258Z,"2km S of Lytle Creek, CA",earthquake,0.29,0.67,0.134,27,automatic,ci,ci
 2022-05-28T23:38:58.610Z,19.1508331298828,-155.363006591797,28.3299999237061,1.74000001,md,30,222,,0.119999997,hv,hv73026252,2022-05-28T23:42:13.680Z,"13 km ESE of Pāhala, Hawaii",earthquake,1,1.13,0.870000005,3,automatic,hv,hv
@@ -170,5 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-28T10:58:19.460Z,33.6221667,-118.0083333,14.82,1.17,ml,18,228,0.08263,0.15,ci,ci40029103,2022-05-28T11:01:59.526Z,"7km W of Newport Beach, CA",earthquake,0.85,0.49,0.242,17,automatic,ci,ci
 2022-05-28T10:56:48.500Z,17.8921666666667,-66.8833333333333,15.46,2.21,md,10,237,,0.07,pr,pr71351133,2022-05-28T11:26:11.140Z,"9 km SSE of Guánica, Puerto Rico",earthquake,0.59,0.62,0.0491861157979709,5,reviewed,pr,pr
 2022-05-28T10:55:16.810Z,34.9505,-119.2101667,0.62,1.05,ml,9,165,0.1026,0.24,ci,ci40029095,2022-05-28T10:58:54.467Z,"13km NNW of Pine Mountain Club, CA",earthquake,0.63,0.75,0.141,10,automatic,ci,ci
-2022-05-28T10:47:31.480Z,34.0813333,-117.2606667,13.86,0.88,ml,22,74,0.06472,0.21,ci,ci40029087,2022-05-28T10:51:13.880Z,"4km N of Loma Linda, CA",earthquake,0.39,0.83,0.247,18,automatic,ci,ci
-2022-05-28T10:43:43.590Z,18.0591666666667,-67.5328333333333,8.09,2.48,md,7,270,,0.19,pr,pr71351128,2022-05-28T11:16:19.070Z,"36 km W of Puerto Real, Puerto Rico",earthquake,1.17,1.78,0.091353142736514,5,reviewed,pr,pr
