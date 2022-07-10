@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-10T07:10:29.435Z,61.6087,-141.0625,7.8,1.4,ml,,,,0.53,ak,ak0228rzvizj,2022-07-10T07:12:49.154Z,"100 km E of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-10T06:32:27.710Z,38.8376656,-122.8079987,2.12,0.85,md,10,81,0.01381,0.01,nc,nc73757011,2022-07-10T06:49:16.924Z,"8km WNW of Cobb, CA",earthquake,0.35,1.2,,1,automatic,nc,nc
 2022-07-10T06:23:58.513Z,63.1846,-149.5506,0,1.6,ml,,,,0.93,ak,ak0228rzcxxn,2022-07-10T06:26:41.557Z,"37 km SW of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-10T06:12:31.270Z,36.4136658,-120.998497,9.87,1.35,md,6,125,0.09986,0.07,nc,nc73757006,2022-07-10T06:55:09.960Z,"18km SE of Pinnacles, CA",earthquake,0.65,2.02,0.19,4,automatic,nc,nc
@@ -237,6 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-09T07:37:40.070Z,19.193000793457,-155.476837158203,31.9699993133545,2.18,ml,35,85,,0.129999995,hv,hv73070187,2022-07-09T07:43:11.170Z,"1 km S of Pāhala, Hawaii",earthquake,0.48,0.709999979,3.58,4,automatic,hv,hv
 2022-07-09T07:24:45.990Z,37.2916667,-121.6698333,1.82,0.91,md,19,47,0.03273,0.08,nc,nc73756601,2022-07-09T09:21:16.013Z,"15km E of Seven Trees, CA",earthquake,0.24,0.43,0.143,19,reviewed,nc,nc
 2022-07-09T07:23:09.597Z,60.3234,-152.4153,85.9,1.5,ml,,,,0.33,ak,ak0228qcex8k,2022-07-09T07:26:36.961Z,"51 km NW of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2022-07-09T07:13:21.890Z,33.6321667,-116.7445,18.97,0.4,ml,12,86,0.04172,0.28,ci,ci40300432,2022-07-09T07:17:05.530Z,"11km NW of Anza, CA",earthquake,1.41,1.45,0.107,6,automatic,ci,ci
-2022-07-09T07:04:33.310Z,65.3184,-144.5728,0,1.6,ml,,,,1.15,ak,ak0228qcawhv,2022-07-09T07:06:57.372Z,"30 km SSE of Central, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-07-09T06:57:59.030Z,18.0175,-66.9038333333333,20.22,2.2,md,4,233,,0.08,pr,pr71358268,2022-07-09T07:12:40.260Z,"2 km S of Lluveras, Puerto Rico",earthquake,2.12,0.96,0.0431954020181631,4,reviewed,pr,pr
