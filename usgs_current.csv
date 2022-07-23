@@ -146,6 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-23T00:13:02.110Z,33.605,-117.0866667,10.31,1.08,ml,8,115,0.07851,0.23,ci,ci40068151,2022-07-23T00:16:41.053Z,"8km NE of Murrieta Hot Springs, CA",earthquake,1.1,1.86,0.451,20,automatic,ci,ci
 2022-07-23T00:11:11.010Z,38.8400002,-122.8028336,0.84,0.85,md,10,66,0.009882,0.01,nc,nc73761766,2022-07-23T00:33:15.734Z,"7km WNW of Cobb, CA",earthquake,0.36,1.26,,1,automatic,nc,nc
 2022-07-22T23:51:42.025Z,62.6263,-143.3255,0.1,2.4,ml,,,,1,ak,ak0229c43fx6,2022-07-23T00:16:25.040Z,"32 km NNW of Nabesna, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-07-22T23:49:33.830Z,54.1888333333333,-166.059666666667,7.13,0.17,ml,8,249,,0.09,av,av91642786,2022-07-23T19:51:39.450Z,"19 km WNW of Akutan, Alaska",earthquake,0.39,0.35,0.297131674830685,8,reviewed,av,av
 2022-07-22T23:35:59.255Z,59.6534,-153.4095,118.6,1.2,ml,,,,0.23,ak,ak0229c401sl,2022-07-22T23:41:45.496Z,"41 km ESE of Pedro Bay, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-07-22T23:28:37.920Z,38.8213348,-122.81633,4.94,0.35,md,10,61,0.005302,0.06,nc,nc73761756,2022-07-22T23:37:11.401Z,"7km NW of The Geysers, CA",earthquake,0.79,1.1,,1,automatic,nc,nc
 2022-07-22T23:24:36.680Z,33.2915,-116.2663333,2.14,0.94,ml,36,66,0.07942,0.26,ci,ci40068135,2022-07-22T23:28:09.610Z,"11km ENE of Borrego Springs, CA",earthquake,0.36,0.52,0.107,19,automatic,ci,ci
@@ -163,6 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-22T22:15:15.240Z,38.793335,-122.7614975,1.01,2.58,md,52,46,0.007412,0.04,nc,nc73761716,2022-07-23T02:07:52.442Z,"2km NNW of The Geysers, CA",earthquake,0.13,0.19,0.07,35,automatic,nc,nc
 2022-07-22T22:12:46.110Z,19.4826666666667,-155.594833333333,-1.31,2.36,ml,40,74,,0.16,hv,hv73084662,2022-07-23T00:06:39.810Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.24,0.22,0.204965926677269,19,reviewed,hv,hv
 2022-07-22T22:04:52.499Z,63.8826,-148.7373,113.7,1.2,ml,,,,0.36,ak,ak0229c37yju,2022-07-22T22:08:05.916Z,"11 km ENE of Healy, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2022-07-22T22:00:28.600Z,52.1006666666667,-176.187333333333,10.75,0.39,ml,5,285,,0.22,av,av91642661,2022-07-23T19:45:57.560Z,"39 km NE of Adak, Alaska",earthquake,1.37,1.65,0.255781231736452,5,reviewed,av,av
 2022-07-22T21:46:29.208Z,60.0268,-153.314,122.8,1.8,ml,,,,0.29,ak,ak0229c2vh54,2022-07-22T21:48:34.100Z,"51 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-22T21:45:49.470Z,18.3058,-68.1048,167,4.26,md,24,332,0.6306,0.23,pr,pr2022203000,2022-07-22T22:28:14.613Z,"43 km SE of Punta Cana, Dominican Republic",earthquake,2.57,0.98,0.1,16,reviewed,pr,pr
 2022-07-22T21:45:14.510Z,38.07,-118.9178333,8.63,1.69,md,22,87,0.3092,0.24,nc,nc73761711,2022-07-23T01:46:16.183Z,"18km SSE of Bodie, CA",earthquake,0.38,6.17,0.327,18,reviewed,nc,nc
